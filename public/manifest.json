@@ -1,0 +1,15 @@
+{
+  "name": "Rhyondar Playing Game : A real life role playing system",
+  "short_name": "RhyPG",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#673ab6",
+  "background_color": "#111111",
+  "icons": [
+    {
+      "src": "asd.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    }
+  ]
+}
